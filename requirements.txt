@@ -1,0 +1,5 @@
+google-cloud-storage
+google-cloud-bigquery
+google-api-python-client
+functions-framework
+isodate
