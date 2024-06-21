@@ -13,13 +13,14 @@ Welcome to **YouTube Trending Videos Analytics**! This project fetches trending 
 
 
 ## 🛠 Technologies Used
-Google Cloud Functions: For running the functions.
-Google BigQuery: For storing and analyzing data.
-Google Cloud Scheduler: For automating daily data fetches.
-Google Cloud SDK: For managing cloud resources and deployments.
-YouTube Data API: For fetching video and channel data.
-Python: For scripting and data processing.
-Looker: For data visualization (coming soon).
+- Google Cloud Functions: For running the functions.
+- Google BigQuery: For storing and analyzing data.
+- Google Cloud Scheduler: For automating daily data fetches.
+- Google Cloud SDK: For managing cloud resources and deployments.
+- YouTube Data API: For fetching video and channel data.
+- Python: For scripting and data processing.
+- Looker: For data visualization (coming soon).
+- SQL: For data summaries 
 
 
 ## 📈 Logging and Error Handling
