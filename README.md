@@ -23,9 +23,4 @@ Welcome to **YouTube Trending Videos Analytics**! This project fetches trending 
 - SQL: For data summaries 
 
 
-## 📈 Logging and Error Handling
-All operations are logged for easy monitoring and debugging. Errors are handled gracefully with informative messages.
-
-
-Happy analyzing! 🚀
 
