@@ -1,6 +1,6 @@
-# YouTube Trending Videos Analytics 📊🎥
+# YouTube Trending Videos Analysis & Visualization 📊🎥
 
-Welcome to **YouTube Trending Videos Analytics**! This project fetches trending YouTube videos, tracks their statistics over time, and uploads the data to Google BigQuery for analysis.
+This project fetches trending YouTube videos, tracks their statistics over time, and uploads the data to Google BigQuery for analysis.
 
 ## 🌟 Features
 - Fetches trending videos by category using the [YouTube API](https://developers.google.com/youtube/v3/docs)
