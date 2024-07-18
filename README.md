@@ -19,8 +19,8 @@ This project fetches trending YouTube videos, tracks their statistics over time,
 - Google Cloud SDK: For managing cloud resources and deployments.
 - YouTube Data API: For fetching video and channel data.
 - Python: For scripting and data processing.
-- Looker: For data visualization (coming soon).
-- SQL: For data summaries 
+- Looker: For data visualization.
+- SQL: For data summaries.
 
 
 
